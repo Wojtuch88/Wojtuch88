@@ -3,6 +3,8 @@ I am a Junior QA Engineer from Poland getting started my career in IT. I am extr
 I have basics knowledge of tester tools: TestRail, Jira, Postman, Qase, GIT and I know the basics of API, MySQL, Java and Java Script, HTML and CSS and other programs useful for software quality work: Visual Studio Code, Notepad ++, DBeaver. 
 I have knowledge of operating software and work management tools: Jira, Trello and know diffrents methodologies and types of testing.
 My goal is to find a job as a QA Engineer and constantly improve my skills to become a professional QA Engineer.
+
+
 <br>## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wojciech-kasprzyk88/)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)<br>
 <br>## Expertise
