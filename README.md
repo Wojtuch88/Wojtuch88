@@ -4,7 +4,7 @@ I have basics knowledge of tester tools: TestRail, Jira, Postman, Qase, GIT and 
 I have knowledge of operating software and work management tools: Jira, Trello and know diffrents methodologies and types of testing.
 My goal is to find a job as a QA Engineer and constantly improve my skills to become a professional QA Engineer.
 
-<br>CONNECT WITH ME>/br>
+<br>CONNECT WITH ME</br>
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wojciech-kasprzyk88/)
 
