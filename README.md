@@ -1,6 +1,5 @@
 ### Hi, it's Wojtek here! 👋
-I am a Junior QA Engineer from Poland getting started my career in IT. I am extremely motivated to constantly develop my skills and grow professionally. 
-I have basics knowledge of tester tools: TestRail, Jira, Postman, Qase, GIT and I know the basics of API, MySQL, Java and Java Script, HTML and CSS and other programs useful for software quality work: Visual Studio Code, Notepad ++, DBeaver. 
+I am a Junior QA Engineer from Poland getting started my career in IT. I have basics knowledge of tester tools: TestRail, Jira, Postman, Qase, GIT and I know the basics of API, MySQL, Java and Java Script, HTML and CSS and other programs useful for software quality work: Visual Studio Code, Notepad ++, DBeaver. 
 I have knowledge of operating software and work management tools: Jira, Trello and know diffrents methodologies and types of testing.
 My goal is to find a job as a QA Engineer and constantly improve my skills to become a professional QA Engineer.
 <br>CONNECT WITH ME</br>
